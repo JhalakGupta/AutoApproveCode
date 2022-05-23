@@ -1,2 +1,3 @@
 Adding the test file 
 Changing the content for the test file to check whether GitHub actions bypass code reviews even with the branch protection rules.
+Test auto-approve
